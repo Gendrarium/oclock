@@ -44,8 +44,8 @@
   .clock__type_min {
     width: 31px;
     height: 280px;
-    left: 144px;
-    top: 20px;
+    left: 145px;
+    top: 19px;
   }
  }
 .clock__type_hour {
@@ -62,7 +62,7 @@
   .clock__type_hour {
     width: 34px;
     height: 180px;
-    left: 141px;
-    top: 69px;
+    left: 143px;
+    top: 70px;
   }
  }
