@@ -25,13 +25,13 @@ function Clock() {
     <div className="clock" style={{backgroundImage: `url(${dial})`}}>
       <div className="clock__type_sec" style={{
         backgroundImage: `url(${secondHand})`,
-        transform: `rotate(${180}deg)`}}></div>
+        transform: `rotate(${0.006*(second*1000 + millisecond)}deg)`}}></div>
       <div className="clock__type_min" style={{
         backgroundImage: `url(${minuteHand})`,
-        transform: `rotate(${0}deg)`}}></div>
+        transform: `rotate(${6*(minute + second/60)}deg)`}}></div>
       <div className="clock__type_hour" style={{
         backgroundImage: `url(${hourHand})`,
-        transform: `rotate(${180}deg)`}}></div>
+        transform: `rotate(${30*(hour + minute/60)}deg)`}}></div>
     </div>
   );
 }
