@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/Gardarion/Oclock/static/css/main.76a14635.chunk.css",
-    "main.js": "/Gardarion/Oclock/static/js/main.85738361.chunk.js",
-    "main.js.map": "/Gardarion/Oclock/static/js/main.85738361.chunk.js.map",
-    "runtime-main.js": "/Gardarion/Oclock/static/js/runtime-main.a5abcadf.js",
-    "runtime-main.js.map": "/Gardarion/Oclock/static/js/runtime-main.a5abcadf.js.map",
-    "static/js/2.825a8d56.chunk.js": "/Gardarion/Oclock/static/js/2.825a8d56.chunk.js",
-    "static/js/2.825a8d56.chunk.js.map": "/Gardarion/Oclock/static/js/2.825a8d56.chunk.js.map",
-    "static/js/3.5f3a7129.chunk.js": "/Gardarion/Oclock/static/js/3.5f3a7129.chunk.js",
-    "static/js/3.5f3a7129.chunk.js.map": "/Gardarion/Oclock/static/js/3.5f3a7129.chunk.js.map",
-    "index.html": "/Gardarion/Oclock/index.html",
-    "static/css/main.76a14635.chunk.css.map": "/Gardarion/Oclock/static/css/main.76a14635.chunk.css.map",
-    "static/js/2.825a8d56.chunk.js.LICENSE.txt": "/Gardarion/Oclock/static/js/2.825a8d56.chunk.js.LICENSE.txt",
-    "static/media/dial.9b938f79.png": "/Gardarion/Oclock/static/media/dial.9b938f79.png",
-    "static/media/hour.4d2b2574.png": "/Gardarion/Oclock/static/media/hour.4d2b2574.png",
-    "static/media/second.34bb37ae.png": "/Gardarion/Oclock/static/media/second.34bb37ae.png"
+    "main.css": "./static/css/main.76a14635.chunk.css",
+    "main.js": "./static/js/main.47d60e42.chunk.js",
+    "main.js.map": "./static/js/main.47d60e42.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.13a75f2d.js",
+    "runtime-main.js.map": "./static/js/runtime-main.13a75f2d.js.map",
+    "static/js/2.97a95b9e.chunk.js": "./static/js/2.97a95b9e.chunk.js",
+    "static/js/2.97a95b9e.chunk.js.map": "./static/js/2.97a95b9e.chunk.js.map",
+    "static/js/3.0d68bb0f.chunk.js": "./static/js/3.0d68bb0f.chunk.js",
+    "static/js/3.0d68bb0f.chunk.js.map": "./static/js/3.0d68bb0f.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.76a14635.chunk.css.map": "./static/css/main.76a14635.chunk.css.map",
+    "static/js/2.97a95b9e.chunk.js.LICENSE.txt": "./static/js/2.97a95b9e.chunk.js.LICENSE.txt",
+    "static/media/dial.9b938f79.png": "./static/media/dial.9b938f79.png",
+    "static/media/hour.4d2b2574.png": "./static/media/hour.4d2b2574.png",
+    "static/media/second.34bb37ae.png": "./static/media/second.34bb37ae.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.a5abcadf.js",
-    "static/js/2.825a8d56.chunk.js",
+    "static/js/runtime-main.13a75f2d.js",
+    "static/js/2.97a95b9e.chunk.js",
     "static/css/main.76a14635.chunk.css",
-    "static/js/main.85738361.chunk.js"
+    "static/js/main.47d60e42.chunk.js"
   ]
 }
