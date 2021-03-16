@@ -12,7 +12,7 @@
 
 **Ссылка на сайт**
 
-[Нажмите сюда, чтобы посмотреть сайт.](https://gendrarium.github.io/react-mesto-auth/#/)
+[Нажмите сюда, чтобы посмотреть сайт.](https://gendrarium.github.io/oclock/)
 
 **Благодарности**
 
